@@ -61,12 +61,12 @@ Full lists: [KU Research Profile](https://researchprofiles.ku.dk/en/persons/jane
 
 ## Team
 
-| Role | Name | Project |
-|------|------|---------|
-| Group leader, Head of the Pharmaceutical Informatics Section | Jane Knöchel | |
-| PhD researcher | Sara Angelucci | Model-informed precision dosing during pregnancy |
-| PhD student (co-supervised) | Cathrine Lind | Model-informed precision dosing in obesity |
-| PhD student (co-supervised) | Johannes Tillil | Model reduction of non-linear reaction kinetic models |
+| Role | Name | Project | ORCID |
+|------|------|---------|---------|
+| Group leader, Head of the Pharmaceutical Informatics Section | Jane Knöchel | |https://orcid.org/0000-0001-9839-2433|
+| PhD researcher | Sara Angelucci | Model-informed precision dosing during pregnancy |https://orcid.org/0009-0008-2287-5568|
+| PhD student (co-supervised) | Cathrine Lind | Model-informed precision dosing in obesity ||
+| PhD student (co-supervised) | Johannes Tillil | Model reduction of non-linear reaction kinetic models |https://orcid.org/0000-0002-1962-1267|
 
 ## About the group leader
 
