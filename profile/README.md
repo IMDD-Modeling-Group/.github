@@ -77,7 +77,7 @@ She chairs the AI/ML Special Interest Group of the International Society of Phar
 ## Collaborators and funding
 
 - **Funding:** Center for Pharmaceutical Data Science Education (CPDSE), University of Copenhagen; Innovation Fund Denmark (obesity precision dosing, with Novo Nordisk); LEO Foundation (drug penetration in diseased skin, with Mariane van de Plas)
-- **Industry partners:** AstraZeneca, InSilicoTrials, Novo Nordisk, Certara, AbbVie, Pierre Fabre
+- **Industry collaborators:** AstraZeneca, InSilicoTrials, Novo Nordisk, Certara, AbbVie, Pierre Fabre
 - **Academic partners:** Linköping University, University of Potsdam, Freie Universität Berlin
 
 ## Teaching
