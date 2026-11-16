@@ -12,7 +12,7 @@ We build predictive models of disease progression and drug response by combining
 
 **2. Mechanistic models meet machine learning.** We integrate mechanistic models with machine learning and synthetic data, so that we can learn across fragmented datasets instead of building one model per dataset.
 
-**3. Clinical translation.** We start with gestational-age-dependent maternal–placental–fetal PBPK and QSP models for dosing in pregnancy, and extend to settings such as obesity through collaborations within the University of Copenhagen and with industry.
+**3. Clinical translation.** We start with gestational-age-dependent PBPK and QSP models for dosing in pregnancy, and extend to settings such as obesity through collaborations within the University of Copenhagen and with industry.
 
 **Reusable by the community.** To make methods reusable, we develop community benchmarks and datasets, including through the ISoP AI/ML Special Interest Group.
 
